@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/amyhre16/weatherApp#readme",
   "dependencies": {
+    "inquirer": "^2.0.0",
     "weather-js": "^1.0.2"
   }
 }

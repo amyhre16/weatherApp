@@ -1,0 +1,22 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amyhre16/weatherApp.git"
+  },
+  "author": "KJRA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amyhre16/weatherApp/issues"
+  },
+  "homepage": "https://github.com/amyhre16/weatherApp#readme",
+  "dependencies": {
+    "weather-js": "^1.0.2"
+  }
+}
